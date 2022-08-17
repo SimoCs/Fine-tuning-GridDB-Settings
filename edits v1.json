@@ -1,0 +1,9 @@
+{
+    "dataStore":{
+        "logWriteMode":1,
+        "persistencyMode":"NORMAL",
+    },
+    "transaction":{
+        "replicationMode":0
+    }
+}
